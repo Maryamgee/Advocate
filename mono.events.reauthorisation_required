@@ -1,0 +1,8 @@
+{
+  event: 'mono.events.reauthorisation_required',
+  data: {
+    account: {
+      _id: '5fbcde8f8699984153e65537'
+    }
+  }
+}
