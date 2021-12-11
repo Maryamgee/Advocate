@@ -1,0 +1,8 @@
+{
+  event: 'mono.events. sync_failed',
+  data: {
+    account: {
+      _id: '61b47e7d867bb0afadbf473f'
+    }
+  }
+}
