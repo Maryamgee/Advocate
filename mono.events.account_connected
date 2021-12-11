@@ -1,6 +1,6 @@
 {
   event: "mono.events.account_connected",
   data: {
-    "id": "60770aa8c5878a2af69ed849"
+    "id": "61b47e7d867bb0afadbf473f"
   }
 }
