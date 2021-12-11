@@ -2,7 +2,7 @@
   event: 'mono.events.reauthorisation_required',
   data: {
     account: {
-      _id: '5fbcde8f8699984153e65537'
+      _id: '61b47e7d867bb0afadbf473f'
     }
   }
 }
